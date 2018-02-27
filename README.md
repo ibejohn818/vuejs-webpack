@@ -1,4 +1,16 @@
-# vue-webpack-boilerplate
+# FORKED: Docker Config
+
+> Forked from the original template to provide working with docker-compose and a multi-page design. 
+
+> My use-case is a PHP site rendering the pages and sourcing the js/css files from the webpack-dev-server to take advantage of hot-reloading and compiling
+
+> To init this template use the following command
+
+`vue init ibejohn818/vuejs-webpack-docker`
+
+> I'll post a link to a more in-depth on my use-case
+
+## vue-webpack-boilerplate
 
 > A full-featured Webpack setup with hot-reload, lint-on-save, unit testing & css extraction.
 
